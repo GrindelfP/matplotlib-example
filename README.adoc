@@ -1,0 +1,12 @@
+= Matplotlib example =
+
+== Description ==
+This is a small project which is a task on my UNI artificial intelligence course. The aim of the task is to learn and demonstrate the main functionality of the Matplotlib library. The task is to create following graphs:
+
+- Dot graph
+- Line graph
+- Bar graph
+- Histogram
+- Pie chart
+
+The data should be taken from https://www.kaggle.com[Kaggle] website.
